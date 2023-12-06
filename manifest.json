@@ -9,6 +9,7 @@
     "theme_color": "#6c4575",
     "orientation":"portrait-primary",
     "description": "Add text and start listening from any sentence you like. Using the voices from the web, you can have a natural reader for your favorite stories.",
+    "scope": "https://cvartt1097.github.io/",
     "launch_handler": {
       "client_mode": ["focus-existing", "auto"]
   },
