@@ -83,7 +83,9 @@ textarea:focus {
 
 #buttoncontainer button {
 background-color: #3d3a3e;
-
+cursor: pointer;
+transform: scale(1.1);
+transition:transform 0.3s;
 }
 
 div {
@@ -163,6 +165,8 @@ div {
     justify-content: space-between;
     width:100%;
     margin:5px;
+    
+
     
     }
 
@@ -300,6 +304,5 @@ justify-content: space-around;
 }
 
 
-/* Menu Assets  */
 
 
